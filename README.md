@@ -8,16 +8,24 @@ This is a classification problem.
                                                   Accuracies of Different Algorithm
 
 Decision Tree           :- 69.32%
+
 K-NN                    :- 73.15%
+
 Naive Bayes             :- 71.14%
+
 Random Forest           :- 76.16%
+
 Logistic Regression     :- 76.83%
+
 SVM                     :- 77.89%
+
 XGBoost                 :- 78.1%
+
 
 **RESULT:-** XGBoost is the best classification algorithm for this model.
 
 Thank You 
+
 Vansh
 
 
