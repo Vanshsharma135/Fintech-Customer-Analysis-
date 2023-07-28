@@ -24,9 +24,7 @@ XGBoost                 :- 78.1%
 
 **RESULT:-** XGBoost is the best classification algorithm for this model.
 
-Thank You 
-
-Vansh
+**Thanks**
 
 
 
