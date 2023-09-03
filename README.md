@@ -1,8 +1,4 @@
-The "FinTech" company launch there android and iOS mobile base app and want to grow there business. 
-But there is problem how to recomended this app and offer who realy want to use it. 
-So for that company desided to give free trial to each and every customer for 24 houre and collect data from the customers. 
-In this senariao some customer purchase the app and someone not.
-According to this data company want to give special offer to the customer who are not interested to buy without offer and grow thre business.
+The "FinTech" company launched their Android and iOS mobile base app and wants to grow their business. But there is a problem with how to recommend this app and offer who really want to use it. So the company decided to give a free trial to each and every customer for 24 hours and collect data from the customers. In this scenario, some customers purchase the app and some do not. According to this data, the company wants to give special offers to customers who are not interested in buying without offers and grow their business.
 
 # This is a classification problem.
 
